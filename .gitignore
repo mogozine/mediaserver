@@ -1,0 +1,11 @@
+bin
+content
+doc
+target
+videos
+.classpath
+pom.xml
+.settings
+.svn
+.project
+gstreamer_commands.txt
